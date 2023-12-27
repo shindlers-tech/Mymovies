@@ -1,2 +1,2 @@
 # Mymovies
-Best movies I would reccomend.
+Best movies I would recommend.
